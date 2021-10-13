@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:53:09.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="QbdiYtujG6KKo6Vc3-KL" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T08:54:19.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="DAdqa2Gha8zAIVYyYXNM" version="14.9.0" type="github">
   <diagram id="YT8MG9-5HIi4pTICeNCn" name="Page-1">
-    <mxGraphModel dx="2012" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nhshDBGBUjT2qlWIEf-f-69" value="m_OpenHero()&lt;br&gt;打开神兵展示界面&lt;br&gt;UGC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="405" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nhshDBGBUjT2qlWIEf-f-71" value="点击本期开放" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="630" width="100" height="20" as="geometry" />
@@ -375,8 +375,10 @@
             <mxPoint x="589.5" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nhshDBGBUjT2qlWIEf-f-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="nhshDBGBUjT2qlWIEf-f-180" target="nhshDBGBUjT2qlWIEf-f-171" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nhshDBGBUjT2qlWIEf-f-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" target="nhshDBGBUjT2qlWIEf-f-171" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1290" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nhshDBGBUjT2qlWIEf-f-175" value="是否所有人已准备" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="504.5" y="1250" width="130" height="80" as="geometry" />
@@ -543,7 +545,7 @@
         <mxCell id="KfMMu8X5qKNCOc8bA0Uw-15" value="LuaCallCs_UGCStateDriver.StartLegacyGame()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="639.5" y="530" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KfMMu8X5qKNCOc8bA0Uw-17" value="点击开始" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KfMMu8X5qKNCOc8bA0Uw-17" value="点击确定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="539.25" y="550" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KfMMu8X5qKNCOc8bA0Uw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="KfMMu8X5qKNCOc8bA0Uw-3" target="KfMMu8X5qKNCOc8bA0Uw-17">
